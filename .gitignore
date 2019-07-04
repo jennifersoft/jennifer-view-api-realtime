@@ -1,0 +1,8 @@
+# NodeJS
+node/
+node_modules/
+coverage/
+
+# IntelliJ
+.idea/
+*.iml
