@@ -5,7 +5,7 @@ import java.util.List;
 
 public class RealtimeDomainDataSet
 {
-    @JsonProperty("result")
+    @JsonProperty("RealtimeDomainData")
     List<RealtimeDomainData> list;
 
     public List<RealtimeDomainData> getList()
